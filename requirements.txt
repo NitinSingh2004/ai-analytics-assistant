@@ -8,3 +8,4 @@ pandasai
 langchain
 langchain-groq
 groq
+astor
