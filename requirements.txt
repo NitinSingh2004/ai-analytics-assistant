@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+openpyxl
+python-dotenv
+pandasai
+langchain
+langchain-groq
+groq
